@@ -26,6 +26,4 @@ This project is a machine learning-based web application that predicts the risk 
 
 ---
 
-## 🛠️ How It Works
 
-<img src="images/image1.PNG" alt="Demo" width="600"/>
